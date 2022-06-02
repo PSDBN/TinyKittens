@@ -31,7 +31,9 @@ textarea {
 .Skills {
   background-color: #FFDFDF;}
 .SleepyKitty {
-  border-radius: 45%;}
+  border-radius: 45%;
+  height: auto;
+  width: auto;}
 .SleepFoto {background-color: #FB929E;}
 .Submit {background-color: white;}
 .Work {
