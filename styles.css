@@ -32,7 +32,9 @@ textarea {
   background-color: #FFDFDF;}
 .SleepyKitty {
   border-radius: 45%;
- object-fit: scale-down; max-width: 100%}
+ max-width: 100%;
+    min-width: 300px;
+    height: auto;}
 .SleepFoto {background-color: #FB929E;}
 .Submit {background-color: white;}
 .Work {
